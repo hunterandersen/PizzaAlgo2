@@ -18,9 +18,9 @@ git pull - Pulls from the remote repo
 git status - Shows you where you're at with commits and pushes
 git checkout - switches between branches
     -b
+git branch - Shows a list of the branches in your current repo
     -d
     -a
-git branch - Shows a list of the branches in your current repo
 git diff - Compares state of different files
 git merge - Combine two different version of the same code with slight alterations
 
