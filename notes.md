@@ -24,5 +24,4 @@ git branch - Shows a list of the branches in your current repo
 git diff - Compares state of different files
 git merge - Combine two different version of the same code with slight alterations
 
-
 code . - Opens your VS Code at the working directory
